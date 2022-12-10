@@ -1,4 +1,5 @@
 from sklearn.linear_model import LogisticRegression
+import sklearn.metrics as metrics
 
 
 classifier = LogisticRegression(random_state=0)

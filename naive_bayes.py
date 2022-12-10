@@ -1,4 +1,5 @@
 from sklearn.naive_bayes import GaussianNB
+import sklearn.metrics as metrics
 
 
 classifier = GaussianNB()
