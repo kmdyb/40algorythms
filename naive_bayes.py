@@ -1,4 +1,4 @@
-from sklearn.naive_bayes import GaussianNB()
+from sklearn.naive_bayes import GaussianNB
 
 
 classifier = GaussianNB()
